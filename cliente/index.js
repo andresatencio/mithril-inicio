@@ -7,6 +7,6 @@ m.route.mode = 'pathname';
 
 m.route(document.getElementById('bundle'), "/", {
   "/": inicio,
-  "/otra":  otra
+  "/otra": otra
 });
 
